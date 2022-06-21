@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAHUL_CORE_CFA", "RAHUL_CORE_CFA\RAHUL_CORE_CFA.csproj", "{AA3F99F3-4A51-4E93-A7E8-17DEAE9291A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3F99F3-4A51-4E93-A7E8-17DEAE9291A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3F99F3-4A51-4E93-A7E8-17DEAE9291A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3F99F3-4A51-4E93-A7E8-17DEAE9291A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3F99F3-4A51-4E93-A7E8-17DEAE9291A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FAC1C7F-A31D-43AB-B2D5-7AEEB7D0A0FB}
+	EndGlobalSection
+EndGlobal
